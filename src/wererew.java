@@ -15,6 +15,9 @@ public class wererew {
      */
     public static void main(String[] args) {
          System.out.println("Main");
+         System.out.println("Main1");
+         System.out.println("Main2");
+        
     }
     
 }
