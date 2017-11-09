@@ -1,1 +1,2 @@
-reerewr
+language: java
+sudo : required
